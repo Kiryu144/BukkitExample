@@ -1,0 +1,4 @@
+name: Example
+version: ${project.version}
+main: at.dklostermann.bukkit.example.Example
+api-version: 1.16
